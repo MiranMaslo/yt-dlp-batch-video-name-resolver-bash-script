@@ -5,7 +5,7 @@ links=("$@")
 #         PLEASE MANUALY SET THE PATH TO YOUR yt-dlp INSTACE HERE!!!          #
 ###############################################################################
 #ytdlp="/data/data/com.termux/files/usr/bin/yt-dlp"
-ytdlp="/bin/yt-dlp.exe"
+ytdlp="/bin/yt-dlp"
 
 
 while getopts ":hal:" option; do
